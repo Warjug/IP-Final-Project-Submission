@@ -1,0 +1,48 @@
+C:\Users\Kenneth\source\repos\TCP Client Server\TCP Client Server\bin\Debug\TCP Client Server.exe.config
+C:\Users\Kenneth\source\repos\TCP Client Server\TCP Client Server\bin\Debug\TCP Client Server.exe
+C:\Users\Kenneth\source\repos\TCP Client Server\TCP Client Server\bin\Debug\TCP Client Server.pdb
+C:\Users\Kenneth\source\repos\TCP Client Server\TCP Client Server\bin\Debug\SimpleTCP.dll
+C:\Users\Kenneth\source\repos\TCP Client Server\TCP Client Server\obj\Debug\TCP Client Server.csprojAssemblyReference.cache
+C:\Users\Kenneth\source\repos\TCP Client Server\TCP Client Server\obj\Debug\TCP_Client_Server.Form1.resources
+C:\Users\Kenneth\source\repos\TCP Client Server\TCP Client Server\obj\Debug\TCP_Client_Server.Properties.Resources.resources
+C:\Users\Kenneth\source\repos\TCP Client Server\TCP Client Server\obj\Debug\TCP Client Server.csproj.GenerateResource.cache
+C:\Users\Kenneth\source\repos\TCP Client Server\TCP Client Server\obj\Debug\TCP Client Server.csproj.CoreCompileInputs.cache
+C:\Users\Kenneth\source\repos\TCP Client Server\TCP Client Server\obj\Debug\TCP Client Server.csproj.CopyComplete
+C:\Users\Kenneth\source\repos\TCP Client Server\TCP Client Server\obj\Debug\TCP Client Server.exe
+C:\Users\Kenneth\source\repos\TCP Client Server\TCP Client Server\obj\Debug\TCP Client Server.pdb
+C:\Users\Kenneth\Desktop\TCP Client-Server with Arduino stuff\TCP Client Server\TCP Client Server\bin\Debug\TCP Client Server.exe.config
+C:\Users\Kenneth\Desktop\TCP Client-Server with Arduino stuff\TCP Client Server\TCP Client Server\bin\Debug\TCP Client Server.exe
+C:\Users\Kenneth\Desktop\TCP Client-Server with Arduino stuff\TCP Client Server\TCP Client Server\bin\Debug\TCP Client Server.pdb
+C:\Users\Kenneth\Desktop\TCP Client-Server with Arduino stuff\TCP Client Server\TCP Client Server\bin\Debug\SimpleTCP.dll
+C:\Users\Kenneth\Desktop\TCP Client-Server with Arduino stuff\TCP Client Server\TCP Client Server\obj\Debug\TCP Client Server.csprojAssemblyReference.cache
+C:\Users\Kenneth\Desktop\TCP Client-Server with Arduino stuff\TCP Client Server\TCP Client Server\obj\Debug\TCP_Client_Server.Form1.resources
+C:\Users\Kenneth\Desktop\TCP Client-Server with Arduino stuff\TCP Client Server\TCP Client Server\obj\Debug\TCP_Client_Server.Properties.Resources.resources
+C:\Users\Kenneth\Desktop\TCP Client-Server with Arduino stuff\TCP Client Server\TCP Client Server\obj\Debug\TCP Client Server.csproj.GenerateResource.cache
+C:\Users\Kenneth\Desktop\TCP Client-Server with Arduino stuff\TCP Client Server\TCP Client Server\obj\Debug\TCP Client Server.csproj.CoreCompileInputs.cache
+C:\Users\Kenneth\Desktop\TCP Client-Server with Arduino stuff\TCP Client Server\TCP Client Server\obj\Debug\TCP Client Server.csproj.CopyComplete
+C:\Users\Kenneth\Desktop\TCP Client-Server with Arduino stuff\TCP Client Server\TCP Client Server\obj\Debug\TCP Client Server.exe
+C:\Users\Kenneth\Desktop\TCP Client-Server with Arduino stuff\TCP Client Server\TCP Client Server\obj\Debug\TCP Client Server.pdb
+C:\Users\kenf6\Desktop\lavacakes\TCP Client-Server with Arduino stuff\TCP Client Server\TCP Client Server\bin\Debug\TCP Client Server.exe.config
+C:\Users\kenf6\Desktop\lavacakes\TCP Client-Server with Arduino stuff\TCP Client Server\TCP Client Server\bin\Debug\TCP Client Server.exe
+C:\Users\kenf6\Desktop\lavacakes\TCP Client-Server with Arduino stuff\TCP Client Server\TCP Client Server\bin\Debug\TCP Client Server.pdb
+C:\Users\kenf6\Desktop\lavacakes\TCP Client-Server with Arduino stuff\TCP Client Server\TCP Client Server\bin\Debug\SimpleTCP.dll
+C:\Users\kenf6\Desktop\lavacakes\TCP Client-Server with Arduino stuff\TCP Client Server\TCP Client Server\obj\Debug\TCP Client Server.csprojAssemblyReference.cache
+C:\Users\kenf6\Desktop\lavacakes\TCP Client-Server with Arduino stuff\TCP Client Server\TCP Client Server\obj\Debug\TCP_Client_Server.Form1.resources
+C:\Users\kenf6\Desktop\lavacakes\TCP Client-Server with Arduino stuff\TCP Client Server\TCP Client Server\obj\Debug\TCP_Client_Server.Properties.Resources.resources
+C:\Users\kenf6\Desktop\lavacakes\TCP Client-Server with Arduino stuff\TCP Client Server\TCP Client Server\obj\Debug\TCP Client Server.csproj.GenerateResource.cache
+C:\Users\kenf6\Desktop\lavacakes\TCP Client-Server with Arduino stuff\TCP Client Server\TCP Client Server\obj\Debug\TCP Client Server.csproj.CoreCompileInputs.cache
+C:\Users\kenf6\Desktop\lavacakes\TCP Client-Server with Arduino stuff\TCP Client Server\TCP Client Server\obj\Debug\TCP Client Server.csproj.CopyComplete
+C:\Users\kenf6\Desktop\lavacakes\TCP Client-Server with Arduino stuff\TCP Client Server\TCP Client Server\obj\Debug\TCP Client Server.exe
+C:\Users\kenf6\Desktop\lavacakes\TCP Client-Server with Arduino stuff\TCP Client Server\TCP Client Server\obj\Debug\TCP Client Server.pdb
+C:\Users\kenf6\Desktop\TCP Client-Server with Arduino stuff IP\TCP Client-Server with Arduino stuff\TCP Client Server\TCP Client Server\bin\Debug\TCP Client Server.exe.config
+C:\Users\kenf6\Desktop\TCP Client-Server with Arduino stuff IP\TCP Client-Server with Arduino stuff\TCP Client Server\TCP Client Server\bin\Debug\TCP Client Server.exe
+C:\Users\kenf6\Desktop\TCP Client-Server with Arduino stuff IP\TCP Client-Server with Arduino stuff\TCP Client Server\TCP Client Server\bin\Debug\TCP Client Server.pdb
+C:\Users\kenf6\Desktop\TCP Client-Server with Arduino stuff IP\TCP Client-Server with Arduino stuff\TCP Client Server\TCP Client Server\bin\Debug\SimpleTCP.dll
+C:\Users\kenf6\Desktop\TCP Client-Server with Arduino stuff IP\TCP Client-Server with Arduino stuff\TCP Client Server\TCP Client Server\obj\Debug\TCP Client Server.csprojAssemblyReference.cache
+C:\Users\kenf6\Desktop\TCP Client-Server with Arduino stuff IP\TCP Client-Server with Arduino stuff\TCP Client Server\TCP Client Server\obj\Debug\TCP_Client_Server.Form1.resources
+C:\Users\kenf6\Desktop\TCP Client-Server with Arduino stuff IP\TCP Client-Server with Arduino stuff\TCP Client Server\TCP Client Server\obj\Debug\TCP_Client_Server.Properties.Resources.resources
+C:\Users\kenf6\Desktop\TCP Client-Server with Arduino stuff IP\TCP Client-Server with Arduino stuff\TCP Client Server\TCP Client Server\obj\Debug\TCP Client Server.csproj.GenerateResource.cache
+C:\Users\kenf6\Desktop\TCP Client-Server with Arduino stuff IP\TCP Client-Server with Arduino stuff\TCP Client Server\TCP Client Server\obj\Debug\TCP Client Server.csproj.CoreCompileInputs.cache
+C:\Users\kenf6\Desktop\TCP Client-Server with Arduino stuff IP\TCP Client-Server with Arduino stuff\TCP Client Server\TCP Client Server\obj\Debug\TCP Client Server.csproj.CopyComplete
+C:\Users\kenf6\Desktop\TCP Client-Server with Arduino stuff IP\TCP Client-Server with Arduino stuff\TCP Client Server\TCP Client Server\obj\Debug\TCP Client Server.exe
+C:\Users\kenf6\Desktop\TCP Client-Server with Arduino stuff IP\TCP Client-Server with Arduino stuff\TCP Client Server\TCP Client Server\obj\Debug\TCP Client Server.pdb
